@@ -23,7 +23,7 @@ const owenconw = {
   },
   certifications: {
       fullStackDeveloper: {
-            soyHenry: ["https://www.soyhenry.com/"]
+            soyHenry: "https://www.soyhenry.com/"
       }
   }
   
