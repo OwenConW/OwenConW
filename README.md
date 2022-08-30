@@ -17,7 +17,7 @@ const owenconw = {
       learnEnglish: true
   },
   interests: {
-      personalDevelopment: ["fullStackDevelopment", {reserveSubLieutenant: "fromEjercitoArgentino"}],
+      personalDevelopment: ["fullStackDevelopment", {reserveSubLieutenant: "fromArgentinianArmy}],
       dreams: ["hackerethicalJob", "fullStackDeveloperJob"],
       toLearn: ["python", "ruby", "typeScript", "next", "english"]
   },
