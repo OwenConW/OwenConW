@@ -1,9 +1,11 @@
-<h1> <img src="https://cdn-icons-png.flaticon.com/512/4640/4640231.png" width=40 height=40/>Hi everyone, I'm Owen <img src="https://cdn-icons-png.flaticon.com/512/4640/4640231.png" width=40 height=40/></h1>
+<h1> <img src="https://cdn-icons-png.flaticon.com/512/3043/3043867.png" width=40 height=40/> Hi everyone, I'm Owen <img src="https://cdn-icons-png.flaticon.com/512/3043/3043867.png" width=40 height=40/></h1>
+<h2>Redes:</h2>
 
 
-### <img src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif" >
+[![Linkedin: Owenconw](https://img.shields.io/badge/-OwenBonoris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-bonoris-80b150168/)](https://www.linkedin.com/in/owen-bonoris-80b150168/)
+[![GitHub Owenconw](https://img.shields.io/github/followers/Owenconw?label=owenconw&style=social)](https://github.com/OwenConW/OwenConW)
 
-
+### Sobre mí...
 ```javascript
 const owenconw = {
   pronouns: "he" || "him",
@@ -29,3 +31,4 @@ const owenconw = {
 
 google.push(owen)  //dreaming is free 
 ```
+### <img src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif" width=1000>
