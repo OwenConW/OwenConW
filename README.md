@@ -1,16 +1,31 @@
-### Hi there 👋
+<h1> <img src="https://cdn-icons-png.flaticon.com/512/4640/4640231.png" width=40 height=40/>Hi everyone, I'm Owen <img src="https://cdn-icons-png.flaticon.com/512/4640/4640231.png" width=40 height=40/></h1>
 
-<!--
-**OwenConW/OwenConW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### <img src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif" >
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const owenconw = {
+  pronouns: "he" || "him",
+  code: ["Javascript", "HTML", "CSS"],
+  tools: ["React", "Redux", "Node", "Express", "Sequelize", "SQL"],
+  hobbies: {
+      cyberSecurity: true,
+      skateboarding: true,
+      learnEnglish: true
+  },
+  interests: {
+      personalDevelopment: ["fullStackDevelopment", {reserveSubLieutenant: "fromEjercitoArgentino"}],
+      dreams: ["hackerethicalJob", "fullStackDeveloperJob"],
+      toLearn: ["python", "ruby", "typeScript", "next", "english"]
+  },
+  certifications: {
+      fullStackDeveloper: {
+            soyHenry: ["https://www.soyhenry.com/"]
+      }
+  }
+  
+}
+
+google.push(owen)  //dreaming is free 
+```
