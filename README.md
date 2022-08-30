@@ -31,4 +31,4 @@ const owenconw = {
 
 google.push(owen)  //dreaming is free 
 ```
-### <img src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif" width=860>
+### <img src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif" width=840>
