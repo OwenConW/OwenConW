@@ -5,7 +5,7 @@
 [![Linkedin: Owenconw](https://img.shields.io/badge/-OwenBonoris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owen-bonoris-80b150168/)](https://www.linkedin.com/in/owen-bonoris-80b150168/)
 [![GitHub Owenconw](https://img.shields.io/github/followers/Owenconw?label=owenconw&style=social)](https://github.com/OwenConW)
 
-### About me...
+### <h2>About me...</h2>
 ```javascript
 const owenconw = {
   pronouns: "he" || "him",
