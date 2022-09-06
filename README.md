@@ -29,6 +29,5 @@ const owenconw = {
   
 }
 
-google.push(owenconw)  //dreaming is free 
 ```
 ### <img src="https://c.tenor.com/ZmZ7UKIc0soAAAAC/anonymous-anonymous-bites-back.gif" width=840>
