@@ -1,4 +1,7 @@
 <h1> <img src="https://cdn-icons-png.flaticon.com/512/3043/3043867.png" width=40 height=40/> Hi everyone, I'm Owen <img src="https://cdn-icons-png.flaticon.com/512/3043/3043867.png" width=40 height=40/></h1>
+
+<h1>I'm not inactive, actually I'm working on gitlab with my work team.</h1>
+
 <h2>Redes:</h2>
 
 
