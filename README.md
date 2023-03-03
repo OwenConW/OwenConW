@@ -1,7 +1,7 @@
 <h1> <img src="https://cdn-icons-png.flaticon.com/512/3043/3043867.png" width=40 height=40/> Hi everyone, I'm Owen <img src="https://cdn-icons-png.flaticon.com/512/3043/3043867.png" width=40 height=40/></h1>
 
 <h2>I´m not inactive, actually I'm working on gitlab with my work team and I use github to save the things that I am learning every day.</h2>
-<h1>I have my another Github with cybersecurity and technologies stuff in https://github.com/Dobliuw</h1>
+<h3>I have my another Github with cybersecurity and technologies stuff in https://github.com/Dobliuw</h3>
 
 <h2>Redes:</h2>
 
